@@ -10,7 +10,5 @@ export class ParallexImageComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit() {
-    console.log(this.className);
-  }
+  ngOnInit() { }
 }
